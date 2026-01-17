@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m currently working on improving skills<br>I’m looking for help with learning new languages and skills<br>I’m currently learning C++ and C#
 
 
