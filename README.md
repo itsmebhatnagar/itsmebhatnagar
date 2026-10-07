@@ -80,14 +80,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/output/breakout-contribution-graph-dark.svg"
+      srcset="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/pacman-output/breakout-contribution-graph-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/output/breakout-contribution-graph.svg"
+      srcset="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/pacman-output/breakout-contribution-graph.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/output/breakout-contribution-graph.svg"
+      src="https://raw.githubusercontent.com/itsmebhatnagar/itsmebhatnagar/pacman-output/breakout-contribution-graph.svg"
       alt="Breakout contribution graph"
     />
   </picture>
